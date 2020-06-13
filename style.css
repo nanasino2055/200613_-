@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+table{
+  /* border-collapse: collapse; */
+}
+
+
+th, td{
+  /* border: 1px solid #000; */
+
+}
+th {
+  background-color: #999;
+}
+td {
+  background-color: #CCC;
+}
